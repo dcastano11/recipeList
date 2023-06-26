@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7340EA44-4DCA-4F11-9FF3-A38286CB4449"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77FC2E17-6A26-4A85-ABCF-DB35459F70F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "recipeListTests/recipeListTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testExample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77FC2E17-6A26-4A85-ABCF-DB35459F70F0 - eedb8c7b5e8e6683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in recipeListTests.recipeListTests.testExample() throws -&gt; ()"
+                  moduleName = "recipeListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/david/Documents/SwiftProjects/recipeList/recipeListTests/recipeListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "77FC2E17-6A26-4A85-ABCF-DB35459F70F0 - eedb8c7b5e8e66c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in recipeListTests.recipeListTests.testExample() throws -&gt; ()"
+                  moduleName = "recipeListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/david/Documents/SwiftProjects/recipeList/recipeListTests/recipeListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "77FC2E17-6A26-4A85-ABCF-DB35459F70F0 - eedb8c7b5e8e6724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in recipeListTests.recipeListTests.testExample() throws -&gt; ()"
+                  moduleName = "recipeListTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/david/Documents/SwiftProjects/recipeList/recipeListTests/recipeListTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
