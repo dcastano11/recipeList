@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Colombian Arepas",
+        "description": "This soft, moist flatbread is perfect for on-the-go street food. The Venezuelan version often is stuffed with ingredients like cheese, avocado or cuajada, a type of milk curd. The Columbian version, featured here, is often served plain. \"This is a quick and easy recipe to make delicious Colombian arepas. They are usually served for breakfast, as a side dish, or even for a quick meal.\" -- Sweet y Salado",
+        "imageUrl": "https://www.allrecipes.com/thmb/66r-AkzxJGNQH7L3sabgSQnfKZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4986046-2000-b52a6a17c30849edb8e8d41524aab38c.jpg",
+        "location": {"lat":4.11567,"lng":-72.93014}
+        
+    },
+    {
+        "name": "Egyptian Ta'ameya (Falafel)",
+        "description": "Once you make your falafel with fava beans, you'll never want the chickpea version again. Egyptian \"street foodies\" have long sworn by the way the favas, also known as broad beans, keep the mixture lighter and moister than garbanzo beans do. \"They are best served with pita bread, tomato, onions, and tahini sauce\" -- Gamila Salem",
+        "imageUrl": "https://www.allrecipes.com/thmb/fKbVWsinzdkCn3brNykpN2tGG0U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3841093-taameya-egyptian-falafel-Christina-4x3-1-d2303bbfa77c401cbd463df0c2995010.jpg",
+        "location": {"lat":30.033333, "lng":31.233334}
+        
+    },
+    {
+        "name": "Egyptian Koshari",
+        "description": "As a longtime staple of Egypt's bustling street food scene, koshari is also considered to be its national dish. Since the mid-19th century, it's been served at roadside stalls and restaurants all over the country. This version follows the basic guideline for blending cooked lentils, rice and pasta, then topping it with tomato sauce. Jazz up your dish with garlic vinegar and hot sauce if you like an extra kick in your koshari. \"This is a typical Egyptian dish that is very good and cheap over here! Puree the sauce in a food processor if you like a smoother texture.\" -- Liz York",
+        "imageUrl":"https://www.allrecipes.com/thmb/fHM3F9RoTM187P9u3g3CndUfyoM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/936031-1677a0c482d74cb299910541a3b48513.jpg",
+        "location": {"lat":30.033333, "lng":31.233334}
+        
+    }
+    
+]
+
